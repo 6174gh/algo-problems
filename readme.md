@@ -8,11 +8,14 @@
 - [ ] Code
 
 1. Logic
->Sample Content Goes here
+
+```Sample Content Goes here```
 2. Algorithm
->Sample Content Goes here
+
+```Sample Content Goes here```
 3. Use Cases / Benefits
->Sample Content Goes here
+
+```Sample Content Goes here```
 
 ---
 
